@@ -1,0 +1,15 @@
+
+List of feature you need  (v1)
+
+1. user authoraztion wiht google 
+2. course lectures
+3. live classes auto recording 
+4. attendance management
+5. fees reminder
+6. test for students
+
+
+
+List of end points
+
+1. 
